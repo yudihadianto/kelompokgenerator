@@ -1,3 +1,4 @@
 # acakacakkelompok
 Diacak-acak
-https://yudihadianto.github.io/acakacakkelompok.github.io/
+
+https://yudihadianto.github.io/kelompokgenerator/
